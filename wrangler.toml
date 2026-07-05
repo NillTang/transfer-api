@@ -1,5 +1,5 @@
 name = "transfer-api"
-main = "src/worker.js"
+main = "index.js"
 compatibility_date = "2025-11-21"
 
 # Store the upstream key as a secret instead of committing it here:
